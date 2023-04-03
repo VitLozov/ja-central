@@ -1,5 +1,5 @@
 .first_page_sec {
-  background-image: url("../_temp/drums_2.jpg");
+  background-image: url("../temp/drums_2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 94vh;
@@ -9,7 +9,7 @@
   background-color: black; }
 
 .music-page {
-  background-image: url("../_temp/music-back.jpg");
+  background-image: url("../temp/music-back.jpg");
   background-repeat: no-repeat;
   background-size: auto;
   height: 500px;
